@@ -7,7 +7,13 @@ A curated collection of resources and research related to the intracranial EEG a
 - [Michael X Cohen's Lectures](https://www.youtube.com/@mikexcohen1)
 - [USC's Brainstorm tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
 - [Fieldtrip tutorial](https://www.fieldtriptoolbox.org/tutorial/)
+- [Signal processing - comparing signals](https://makeabilitylab.github.io/physcomp/signals/ComparingSignals/index.html)
+- [Signal processing - Frequency analysis](https://makeabilitylab.github.io/physcomp/signals/FrequencyAnalysis/index.html)
 
+### Fourier transforms
+- [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
+
+  
 ## Publications
 - [INSERT HERE]()
 
