@@ -5,7 +5,7 @@ A curated collection of resources and research related to the intracranial EEG a
 
 ## Lecture series & Tutorials
 - [Michael X Cohen's Lectures](https://www.youtube.com/@mikexcohen1)
-- [USC's Brainstorm tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials))
+- [USC's Brainstorm tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
 - [Fieldtrip tutorial](https://www.fieldtriptoolbox.org/tutorial/)
 
 ## Publications
