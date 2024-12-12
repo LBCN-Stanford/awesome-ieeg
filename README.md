@@ -9,5 +9,7 @@ A curated collection of resources and research related to the intracranial EEG a
 - [Fieldtrip tutorial](https://www.fieldtriptoolbox.org/tutorial/)
 
 ## Publications
+- [INSERT HERE]()
 
 ## Generate beautiful figures
+- [INSERT HERE]()
