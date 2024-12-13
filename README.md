@@ -17,5 +17,9 @@ A curated collection of resources and research related to the intracranial EEG a
 ## Publications
 - [INSERT HERE]()
 
+## Books (also physical copies in the lab)
+- Lyons, R. G. (2011). Understanding digital signal processing (3rd ed.). Pearson Education.
+- Stankovic, L., Dakovic, M., & Thayaparan, T. (2014). Time-frequency signal analysis with applications. Artech House.
+
 ## Generate beautiful figures
 - [INSERT HERE]()
