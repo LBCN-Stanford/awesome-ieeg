@@ -10,6 +10,8 @@ A curated collection of resources and research related to the intracranial EEG a
 - [Signal processing - comparing signals](https://makeabilitylab.github.io/physcomp/signals/ComparingSignals/index.html)
 - [Signal processing - Frequency analysis](https://makeabilitylab.github.io/physcomp/signals/FrequencyAnalysis/index.html)
 
+### Digital Signal Processing (perhaps too extensive?)
+- [Digital Signal Processing (DSP) Guide](https://github.com/mikeroyal/DSP-Guide)
 ### Fourier transforms
 - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 
@@ -20,6 +22,12 @@ A curated collection of resources and research related to the intracranial EEG a
 ## Books (also physical copies in the lab)
 - Lyons, R. G. (2011). Understanding digital signal processing (3rd ed.). Pearson Education.
 - Stankovic, L., Dakovic, M., & Thayaparan, T. (2014). Time-frequency signal analysis with applications. Artech House.
+- [Steven W. Smith (1997) The Scientist and Engineer's Guide to Digital Signal Processing.](https://www.dspguide.com/pdfbook.htm)
 
 ## Generate beautiful figures
 - [INSERT HERE]()
+
+## other resources
+- [Curated list of awesome neuroscience libraries, software and any content related to the domain.](https://project-awesome.org/analyticalmonk/awesome-neuroscience)
+- summer school: https://github.com/NeuromatchAcademy/course-content
+- Summer school Neurohackademy https://neurohackademy.org/neurohack_year/2024/
