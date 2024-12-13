@@ -24,7 +24,7 @@ A curated collection of resources and research related to the intracranial EEG a
 - Stankovic, L., Dakovic, M., & Thayaparan, T. (2014). Time-frequency signal analysis with applications. Artech House.
 - [Steven W. Smith (1997) The Scientist and Engineer's Guide to Digital Signal Processing.](https://www.dspguide.com/pdfbook.htm)
 - ![In the lab](https://img.shields.io/badge/in%20the%20lab-8A2BE2) Oppenheim A. V. & Schafer, R. W. (2010) Discrete-Time Signal Processing, 3rd edition. Pearson.
-
+- [Edited by Axmacher, N. (2023). Intracranial EEG A Guide for Cognitive Neuroscientists. Springer Nature](https://link.springer.com/book/10.1007/978-3-031-20910-9)
 
 ## Generate beautiful figures
 - [INSERT HERE]()
