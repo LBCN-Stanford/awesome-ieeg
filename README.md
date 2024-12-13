@@ -20,9 +20,11 @@ A curated collection of resources and research related to the intracranial EEG a
 - [INSERT HERE]()
 
 ## Books (also physical copies in the lab)
-- Lyons, R. G. (2011). Understanding digital signal processing (3rd ed.). Pearson Education.
+- ![In the lab](https://img.shields.io/badge/in%20the%20lab-8A2BE2) Lyons, R. G. (2011). Understanding digital signal processing, 3rd edition. Pearson Education.
 - Stankovic, L., Dakovic, M., & Thayaparan, T. (2014). Time-frequency signal analysis with applications. Artech House.
 - [Steven W. Smith (1997) The Scientist and Engineer's Guide to Digital Signal Processing.](https://www.dspguide.com/pdfbook.htm)
+- ![In the lab](https://img.shields.io/badge/in%20the%20lab-8A2BE2) Oppenheim A. V. & Schafer, R. W. (2010) Discrete-Time Signal Processing, 3rd edition. Pearson.
+
 
 ## Generate beautiful figures
 - [INSERT HERE]()
