@@ -9,6 +9,7 @@ A curated collection of resources and research related to the intracranial EEG a
 - [Fieldtrip tutorial](https://www.fieldtriptoolbox.org/tutorial/)
 - [Signal processing - comparing signals](https://makeabilitylab.github.io/physcomp/signals/ComparingSignals/index.html)
 - [Signal processing - Frequency analysis](https://makeabilitylab.github.io/physcomp/signals/FrequencyAnalysis/index.html)
+- [Jake Stieger's LBCN Pipeline Tutorial 2023](https://www.dropbox.com/scl/fo/c5wxzknmkhczsc3d8d5l4/AJqHWuK_1Q7RKhfnjPjFKjs?rlkey=kkevq3u4j88puk2jvyec108za&st=s37w2hu9&dl=0)
 
 ### Digital Signal Processing (perhaps too extensive?)
 - [Digital Signal Processing (DSP) Guide](https://github.com/mikeroyal/DSP-Guide)
