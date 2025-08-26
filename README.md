@@ -18,7 +18,7 @@ A curated collection of resources and research related to the intracranial EEG a
 
   
 ## Publications
-- [INSERT HERE]()
+- [Mercier (2022) Advances in human intracranial electroencephalography research, guidelines and good practices](https://doi.org/10.1016/j.neuroimage.2022.119438)
 
 ## Books (also physical copies in the lab)
 - ![In the lab](https://img.shields.io/badge/in%20the%20lab-8A2BE2) Lyons, R. G. (2011). Understanding digital signal processing, 3rd edition. Pearson Education.
