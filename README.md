@@ -4,7 +4,7 @@ A curated collection of resources and research related to the intracranial EEG a
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## amazing list of iEEG toolboxes
-[ElectrophysiologySoftware](https://github.com/openlists/ElectrophysiologySoftware)
+[List of Electrophysiology Software](https://github.com/openlists/ElectrophysiologySoftware)
 ## Lecture series & Tutorials
 - [Michael X Cohen's Lectures](https://www.youtube.com/@mikexcohen1)
 - [USC's Brainstorm tutorials](https://neuroimage.usc.edu/brainstorm/Tutorials)
